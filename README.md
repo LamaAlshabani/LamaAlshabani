@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javafx , HTML , JAVA , python**
 
-- 🌱 I’m currently learning ** Flutter , React , Docker**
+- 🌱 I’m currently learning **Flutter , React , Docker**
 
 - 📫 How to reach me **LamaAlshabani1@gmail.com**
 
